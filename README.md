@@ -1,6 +1,6 @@
 # shingeki_no_kyojin
 
-Aot video player
+A basic app having an embedded video player.
 
 ## Getting Started
 
