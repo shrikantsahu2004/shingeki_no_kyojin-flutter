@@ -2,6 +2,8 @@
 
 A basic app having an embedded video player.
 
+The objective of this project was to learn how to make use of a video player from dart packages.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
